@@ -1,0 +1,1 @@
+This project was initially developed as a console-based application to demonstrate CRUD operations, file handling, and data validation. A future version will migrate the same business logic to a Flask-based web application.
